@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\..\Projetos .Net\ConstructionManager\ConstructionManager.CrossCutting\ConstructionManager.CrossCutting.csproj" />
+    <ProjectReference Include="..\ProjetoAula.Infra\ProjetoAula.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
